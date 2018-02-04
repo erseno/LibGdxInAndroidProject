@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidWithLibGdx.iml" filepath="$PROJECT_DIR$/AndroidWithLibGdx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-gdx-game-android/my-gdx-game-android.iml" filepath="$PROJECT_DIR$/my-gdx-game-android/my-gdx-game-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-gdx-game-core/my-gdx-game-core.iml" filepath="$PROJECT_DIR$/my-gdx-game-core/my-gdx-game-core.iml" />
+      <module fileurl="file://D:\Data\AndroidProjects\AndroidWithLibGdx\mylibrary\mylibrary.iml" filepath="D:\Data\AndroidProjects\AndroidWithLibGdx\mylibrary\mylibrary.iml" />
+    </modules>
+  </component>
+</project>

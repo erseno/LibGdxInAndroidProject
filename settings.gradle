@@ -1,0 +1,1 @@
+include ':app', ':my-gdx-game-core', ':my-gdx-game-android'
