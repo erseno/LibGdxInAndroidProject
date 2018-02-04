@@ -5,13 +5,15 @@ Demonstrates how to include the LibGdx game development framework into an existi
 
 **my-gdx-game-core**
 
-Java only module. Game code goes here
+Java only module. Game code goes here.
+No platform specific code should be placed here 
 
 **my-gdx-game-android**
 
-Android launcher for the game which uses AndroidFragmentApplication to allow the game to be shown as a Fragment
+Android specific code for the game goes here.
+Contains Android launcher for the game. This example uses AndroidFragmentApplication to allow the game to be shown as a Fragment
 
 **app**
 
-Your typcial Android application module
+Your typical Android application module
 
