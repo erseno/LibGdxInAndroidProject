@@ -13,5 +13,5 @@ Android launcher for the game which uses AndroidFragmentApplication to allow the
 
 **app**
 
-Your typcial Android application
+Your typcial Android application module
 
